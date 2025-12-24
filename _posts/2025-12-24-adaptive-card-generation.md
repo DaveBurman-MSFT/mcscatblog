@@ -95,7 +95,7 @@ The heart of what's going on is a Custom Prompt within that topic, which takes a
 ```json
   [
     {
-      "scenario":"best suited for long journies by car", 
+      "scenario":"best suited for long journeys by car", 
       "formdescription":"Search https://www.pexels.com/search/{insert destination here} for a picture related to the destination (if one can't be found, don't output a picture). Open the form with the picture. Display the origin and destination as text fields, a summary of the weather at the destination, estimated driving time and a list of suggested stops.  Within each stop, display a list of shops along side an an appropriate emoji related to the business. Decorate heavily with other appropriate emojis"
     },
     {
