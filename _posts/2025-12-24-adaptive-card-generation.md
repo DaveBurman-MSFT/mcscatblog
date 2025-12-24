@@ -16,7 +16,7 @@ I've been on a bit of a journey with Adaptive Cards recently. Apart from creatin
 
 Having taken the plunge though, I quickly went from:
 - building cards with the WYSIWYG editor, to
-- hand writing JSON, to 
+- hand-writing JSON, to 
 - getting JSON written for me, to
 - getting JSON written on the fly and presented to users automatically, to
 - getting JSON written on the fly and presented to users automatically with responses interpreted in a meaningful way without writing so much as a curly brace
