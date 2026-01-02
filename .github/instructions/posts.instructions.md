@@ -2,12 +2,11 @@
 applyTo: _posts/*.md
 ---
 
-When creating pull request descriptions or reviewing PRs:
-
 # Blog Post Review
 
 ## Purpose and scope
-Review markdown files before they are committed.  Each file is a post to be contained within an official Microsoft blog.  Content originates from the Microsoft Copilot Acceleration Team; a team of industry experts who provide guidance and insight related to Microsoft's Copilot Studio product.
+Review markdown files before they are created or updated.  Review the entire file every time a review is requested, not just changes included in the pull request.
+Each file is a post to be contained within an official Microsoft blog.  Content originates from the Microsoft Copilot Acceleration Team; a team of industry experts who provide guidance and insight related to Microsoft's Copilot Studio product.
 The blog uses US American language throughout, although it's consumed by readers across the world.
 
 ## Quality Review
